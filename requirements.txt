@@ -2,6 +2,7 @@ matplotlib
 notebook
 numpy
 pandas
+plotly
 pyarrow
 requests
 seaborn
