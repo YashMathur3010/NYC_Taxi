@@ -1,3 +1,4 @@
+lightgbm
 matplotlib
 notebook
 numpy
@@ -6,4 +7,5 @@ plotly
 pyarrow
 requests
 seaborn
+xgboost
 -e .

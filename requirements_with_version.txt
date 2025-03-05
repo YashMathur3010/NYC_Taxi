@@ -46,10 +46,12 @@ jupyterlab==4.3.5
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 kiwisolver==1.4.8
+lightgbm==4.6.0
 MarkupSafe==3.0.2
 matplotlib==3.10.1
 matplotlib-inline==0.1.7
 mistune==3.1.2
+narwhals==1.29.0
 nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
@@ -57,7 +59,7 @@ nest-asyncio==1.6.0
 notebook==7.3.2
 notebook_shim==0.2.4
 numpy==2.2.3
--e git+ssh://git@github.com/YashMathur3010/NYC_Taxi.git@183b3d76fcf8b922abacff26922cbda3fa243505#egg=NYC_Taxi
+-e git+ssh://git@github.com/YashMathur3010/NYC_Taxi.git@1fb6930cb593eb16f16930255b31b52ead79a657#egg=NYC_Taxi
 overrides==7.7.0
 packaging==24.2
 pandas==2.2.3
@@ -66,6 +68,7 @@ parso==0.8.4
 pexpect==4.9.0
 pillow==11.1.0
 platformdirs==4.3.6
+plotly==6.0.0
 prometheus_client==0.21.1
 prompt_toolkit==3.0.50
 psutil==7.0.0
@@ -85,6 +88,7 @@ requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.23.1
+scipy==1.15.2
 seaborn==0.13.2
 Send2Trash==1.8.3
 six==1.17.0
@@ -104,3 +108,4 @@ wcwidth==0.2.13
 webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
+xgboost==2.1.4
